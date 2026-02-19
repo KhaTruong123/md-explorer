@@ -1,0 +1,11 @@
+{
+  "name": "md-explorer",
+  "version": "1.0.0",
+  "description": "Localhost file tree with markdown viewer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:home": "node server.js ~ 3939"
+  },
+  "engines": { "node": ">=18" }
+}
